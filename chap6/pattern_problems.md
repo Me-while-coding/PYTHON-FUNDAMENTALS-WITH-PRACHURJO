@@ -16,11 +16,11 @@ Pattern 1
 
 total number of lines : 5
 
-Outer loop runs 5 times 
+Outer loop runs 5 times
 
 
 
-| outer loop(i)|inner loop(j)|print|
+|outer loop(i)|inner loop(j)|print|
 |-|-|-|
 |1|1|\*|
 |2|2|\*\*|
@@ -75,7 +75,7 @@ outer loop runs 5 times
 
 pattern 3
 
-&#x20;   
+&#x20;
 
 &#x20;   \*
 
@@ -110,8 +110,4 @@ gaps + i = n
 
 
 stars = 2 \* i - 1
-
-
-
-
 

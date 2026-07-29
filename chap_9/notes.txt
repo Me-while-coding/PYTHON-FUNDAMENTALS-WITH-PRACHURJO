@@ -1,0 +1,19 @@
+class is a blueprint
+
+
+
+ class ko jab u call with a parenthesis, your object is created and 
+ that object gets a memory space to stay and uska jo address hain that is 
+ given to the variable
+
+ when a method is called using any object or any object is created,
+ python automatically sends the object as a parameter
+
+ apka jo bhi related data , that is bundled up and stored inside
+ a single unit
+
+single unit- > class
+data -> attributes , methods
+
+the bundling of attributes and methods together inside a class
+is encapsulation but with some supervised or restricted or responsible access

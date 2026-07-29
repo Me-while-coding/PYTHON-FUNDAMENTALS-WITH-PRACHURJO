@@ -1,0 +1,6 @@
+read : it lets you read but not write and file must exist and will it create a new file? no
+
+write : it lets you write but it replaces the old content...and file should exist? no , it will 
+create a new one.
+
+append : same as write but it preserves the old data
