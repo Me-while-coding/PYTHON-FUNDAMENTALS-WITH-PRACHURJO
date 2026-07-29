@@ -5,7 +5,7 @@ chap 3 : datatypes\
 chap 4 : I/O statements and operators\
 chap 5 : if-elif statements and match case\
 chap 6 : loops and patterns\
-chap 7 : sequence datatypes such as strings,tuples,lists,sets and dictionary\
+chap 7 : sequence datatypes such as strings,tuples,lists,sets and dictionary and comprehensions\
 chap 8 : functions\
 chap 9 : Object Oriented Programming\
 chap 10 : Exception Handling\
