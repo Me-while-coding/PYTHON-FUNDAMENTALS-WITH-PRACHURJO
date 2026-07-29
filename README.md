@@ -1,4 +1,4 @@
-**Content : 
+Content : 
 chap 1 : how to install python and use vscode, basic intro to programming.
 chap 2 : variables,keywords and identifiers
 chap 3 : datatypes
